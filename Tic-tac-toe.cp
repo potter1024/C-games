@@ -82,11 +82,11 @@ int check()
         }
     }
     return -1; //tie
-    
+
 }
 int main()
 {
-    
+
     srand(time(0));
     std::cout<<"\t\t\t\t\t\t\t\tWelcome to the tic tac toe GAME!!!\n";
     int i,j,k=0;
