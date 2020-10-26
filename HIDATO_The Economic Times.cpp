@@ -53,8 +53,6 @@ void dfs(int ii,int jj,int n){
 }
 int32_t main()
 {
-    she_taught_me_to_code
-
     cin>>limit;
     for(int i=1;i<=limit;i++){
         is_there[i]=0;
